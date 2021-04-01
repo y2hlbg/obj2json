@@ -10,5 +10,8 @@
     "node"
   ],
   "author": "Y2hlbg",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
